@@ -23,6 +23,11 @@
     src="https://github-readme-stats.vercel.app/api/pin/?username=Aldriik0&repo=Aldriik0.github.io&theme=gruvbox"/>
 </a>
 
+<a href="https://github.com/Aldriik0/SynapticSettingsTouchPadPackage">
+  <img align="center" style="margin:1rem 0.5rem"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Aldriik0&repo=SynapticSettingsTouchPadPackage&theme=gruvbox"/>
+</a>
+
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
 
