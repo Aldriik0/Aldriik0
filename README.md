@@ -12,7 +12,7 @@
 ## 👋 Introduction
 
 <p>Hello!</p>
-<p>I'm Connor, an aspiring software engineer, baseball enthusiast, and student deciding my next steps.</p>
+<p>I'm Connor, a software engineer, baseball enthusiast, and student at Uppsala University!.</p>
 <p>I've done a fair bit with full-stack development, object-oriented programming, and DevOps.</p>
 <p>However, I also have experience with embedded systems, cybersecurity, and machine learning.</p>
 
@@ -28,6 +28,10 @@
     src="https://github-readme-stats.vercel.app/api/pin/?username=Aldriik0&repo=SynapticSettingsTouchPadPackage&theme=gruvbox"/>
 </a>
 
+<a href="https://github.com/Aldriik0/Tron-IoT">
+  <img align="center" style="margin:1rem 0.5rem"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Aldriik0&repo=Tron-IoT&theme=gruvbox"/>
+</a>
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
 
@@ -56,6 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width=50rem />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=50rem />
 </ul> 
 
 ### Frameworks, Libraries
@@ -65,6 +70,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width=50rem />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width=45rem />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dot-net/dot-net-original-wordmark.svg" width=45rem />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angularjs/angularjs-original.svg" width=45rem />
 </ul>
 
 ### Database
